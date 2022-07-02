@@ -1,0 +1,70 @@
+.back1 {
+  background-image: url("https://www.isnphard.com/i/15-puzzle/15-puzzle.png");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.backcel {
+  background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2020/12/Elegant-Celebration-Background-Black-Gold-360x252.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-left: 0.7cm;
+  margin-top: 0.7cm;
+}
+
+.backinst {
+  background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?size=626&ext=jpg");
+  height: 30cm;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-left: 0.7cm;
+  margin-top: 0.7cm;
+}
+
+.back{
+  background: #586e6e;
+  margin-left: 0.7cm;
+  margin-top: 0.7cm;
+  margin-right: 0.7cm;
+}
+
+
+.buttons{
+  font-size: 24px;
+  width: 50%;
+  margin-right: 100px;
+  margin-left: 10cm;
+}
+
+.controls{
+  margin-left: 0.2cm;
+  margin-top: 0.2cm;
+  margin-right: 0.2cm;
+  width: 3cm
+
+}
+
+.controlleft{
+  margin-left: 13.5cm;
+  margin-top: 0.2cm;
+  margin-right: 0.2cm;
+  width: 3cm
+
+
+}
+
+.controlup{
+  margin-left: 17cm;
+  margin-bottom:0.3cm;
+  margin-top: 3cm;
+  margin-right: 0.2cm;
+  width: 3cm
+}
